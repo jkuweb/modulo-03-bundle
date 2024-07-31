@@ -1,0 +1,6 @@
+node_modules
+dist
+declaration.d.ts
+.env
+prod.env
+dev.env
